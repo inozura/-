@@ -1,10 +1,11 @@
 {
-  "short_name": "iNozura Portfolio",
+  "short_name": "iNozura",
   "name": "Novandra Zulfi Ramadhan",
+  "description": "Personal Web Portfolio",
   "icons": [
     {
-      "src": "faith.png",
-      "sizes": "128x128",
+      "src": "icon.png",
+      "sizes": "120x120",
       "type": "image"
     }
   ],
